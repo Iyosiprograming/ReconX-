@@ -31,7 +31,7 @@
 ## 📸 Demo
 
 ```bash
-$ python reconX.py http://example.com
+$ python reconX.py http://testphp.vulnweb.com
 ````
 
 ```
