@@ -77,7 +77,7 @@ $ python reconX.py http://testphp.vulnweb.com
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/iyosiprograming/reconx.git
+git clone https://github.com/Iyosiprograming/ReconX-.git
 cd reconx
 ```
 
