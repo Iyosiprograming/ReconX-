@@ -31,7 +31,7 @@
 ## 📸 Demo
 
 ```bash
-$ python reconX.py http://example.com
+$ python reconX.py http://testphp.vulnweb.com
 ````
 
 ```
@@ -44,7 +44,7 @@ $ python reconX.py http://example.com
 
          Developer: Iyosiyas Ivasyos
 
-[+] Scanning Target: http://example.com
+[+] Scanning Target: http://testphp.vulnweb.com
 
 [+] Analyzing Headers...
     Server: Apache/2.4.54 (Debian)
@@ -140,8 +140,8 @@ Using ReconX against systems without consent may be illegal.
 
 **Iyosiyas Ivasyos**
 *Cybersecurity Researcher & Ethical Hacker*
-🔗 *GitHub: [github.com/yourusername](https://github.com/yourusername)*
-✉️ *Contact: [you@example.com](mailto:you@example.com) (optional)*
+🔗 *GitHub: [github.com/yourusername](https://github.com/iyosiprograming)*
+✉️ *Contact: [you@example.com](mailto:iyosieyosiyas@gmail.com)*
 
 ---
 
