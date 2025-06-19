@@ -87,7 +87,7 @@ cd reconx
 pip install -r requirements.txt
 ```
 
-> ✅ Python 3.x required
+> ✅ Python 3.13.2 required
 
 ---
 
