@@ -140,8 +140,8 @@ Using ReconX against systems without consent may be illegal.
 
 **Iyosiyas Ivasyos**
 *Cybersecurity Researcher & Ethical Hacker*
-🔗 *GitHub: [github.com/yourusername](https://github.com/iyosiprograming)*
-✉️ *Contact: [you@example.com](mailto:iyosieyosiyas@gmail.com)*
+🔗 *GitHub: [github.com/Iyosiprograming](https://github.com/iyosiprograming)*
+✉️ *Contact: [iyosieyosiyas@example.com](mailto:iyosieyosiyas@gmail.com)*
 
 ---
 
